@@ -3,4 +3,4 @@
 A simple Java Spring Boot REST App with Vulnerabilities.
 ssss
 sss
-test1
+test2
